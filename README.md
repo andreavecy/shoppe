@@ -3,7 +3,7 @@
 Shoppe is an Rails-based e-commerce platform which allows you to easily introduce a
 catalogue-based store into your Rails 5 applications. 
 
-**This version of Shoppe is currently unmaintained.**
+**This version of Shoppe is not the original is a fork made by me.**
 
 ## Features
 
@@ -39,8 +39,7 @@ instructions below and you'll be up and running in minutes.
 
 ## Contribution
 
-If you'd like to help with this project, please get in touch with me. The best place is on
-Twitter (@adamcooke) or by e-mail to adam@atechmedia.com.
+If you want to help with this project, please contact me. to my email (andreavecino94@gmail.com) if you want to get in touch with the original creator, communicate with him through Twitter (@adamcooke) or by email at adam@atechmedia.com.
 
 ## License
 
