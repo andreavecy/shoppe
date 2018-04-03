@@ -28,7 +28,7 @@ instructions below and you'll be up and running in minutes.
 
     rails new my_store
     cd my_store
-    echo "gem 'shoppe'" >> Gemfile
+    echo "gem 'shoppe', :git => 'https://github.com/andreavecy/shoppe.git'" >> Gemfile
     echo "gem 'globalize', github: 'globalize/globalize'" >> Gemfile
     echo "gem 'activemodel-serializers-xml'" >> Gemfile
     bundle
